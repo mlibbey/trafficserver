@@ -20,6 +20,9 @@ MySQL Remap Plugin
   specific language governing permissions and limitations
   under the License.
 
+.. important::
+
+    This is deprecated as of |TS| v9.0.
 
 This is a basic plugin for doing dynamic "remaps" from a database. It
 essentially rewrites the incoming request's Host header / origin server
